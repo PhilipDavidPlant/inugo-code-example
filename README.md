@@ -3,7 +3,7 @@
 This example project demonstrates a node.js back-end working with an Angular Front end.
 
 Code for the node server is stored under the `/server` folder.
-Code for the front-end is stored in the `/src` folder.
+Code for the front-end is stored in the `/src` folder, and most of the components are in the `/src/app` folder.
 
 ## Build Everything
 
