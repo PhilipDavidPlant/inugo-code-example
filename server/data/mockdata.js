@@ -48,12 +48,12 @@
 
 var data = [
     { key:1, city:"CBD", name:"Britomart Parking", amount: 10, profileImagePath:"165-office.png"},
-    { key:2, city:"CBD", name:"Downtown", amount: 20, profileImagePath:""},
-    { key:3, city:"North Shore", name:"Takapuna", amount: 30, profileImagePath:""},
-    { key:4, city:"North Shore", name:"Albany Central", amount: 40, profileImagePath:""},
-    { key:5, city:"North Shore", name:"Browns Bay Parking", amount: 40, profileImagePath:""},
-    { key:6, city:"Manakau", name:"Clarks Parking", amount: 40, profileImagePath:""},
-    { key:7, city:"CBD", name:"Ponsonby Parking", amount: 40, profileImagePath:""},
+    { key:2, city:"CBD", name:"Downtown", amount: 20, profileImagePath:"144-school.png"},
+    { key:3, city:"North Shore", name:"Takapuna", amount: 30, profileImagePath:"134-building-12.png"},
+    { key:4, city:"North Shore", name:"Albany Central", amount: 40, profileImagePath:"105-building-21.png"},
+    { key:5, city:"North Shore", name:"Browns Bay Parking", amount: 40, profileImagePath:"057-office-block.png"},
+    { key:6, city:"Manakau", name:"Clarks Parking", amount: 40, profileImagePath:"047-bank-6.png"},
+    { key:7, city:"CBD", name:"Ponsonby Parking", amount: 40, profileImagePath:"050-building-31.png"},
 ]
 
 module.exports = data;
