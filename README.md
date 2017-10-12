@@ -1,5 +1,11 @@
 # InugoCodeExample
 
+This is a small app which shows a dynamicly reordering list of available carparks in a series of imaginary parking structures. The list is fetched from the backend via a simple GET api which is polled every 2 seconds for changes (for this kind of behaviour I would usually use web sockets, but I wanted to keep it simple).
+
+The api simply grabs some mock data and randomly removes parks from one of the structures before returning it.
+
+The list has some nice animations that play when the order changes. I was also planning on doing a management screen for adding parking structure but I found I didn't have enough time.
+
 This example project demonstrates a node.js back-end working with an Angular Front end.
 
 Code for the node server is stored under the `/server` folder.
